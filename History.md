@@ -1,8 +1,7 @@
-
 2.0.0 / 2013-07-18 
 ==================
 
- * remove input methods (.prompt, .confirm, etc)
+ * remove input methods (.prompt, .confirm, etc) they are now in [co-prompt](https://github.com/visionmedia/co-prompt)
 
 1.3.2 / 2013-07-18 
 ==================
